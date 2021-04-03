@@ -1,0 +1,20 @@
+
+	{
+
+        "nazwa": "nazwa 2",
+        "opis": "opis 22",
+        "element_list": [
+                    {
+                        "id_dzl": 4751
+                        
+                    },
+                    {
+                        "id_dzl": 4752
+                        
+                    },
+                    {
+                        "id_dzl": 4760
+                        
+                    }
+                ]
+			}

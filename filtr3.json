@@ -1,0 +1,20 @@
+
+    {
+       
+        "id_ftd": 1,
+		"nazwa": "nazwa sto",
+        "opis": "opis trzy",
+        "element_list": [
+                   
+                    {
+                        "id_dzl": 4770
+                        
+                    },
+					{
+                        "id_dzl": 4766
+                        
+                    }
+                ]
+            }
+    
+        

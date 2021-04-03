@@ -1,0 +1,19 @@
+
+   
+    {
+        "id_ftd": 2,
+        "nazwa": "nazwa 40",
+        "opis": "opis 2",
+        "element_list": [
+                    
+                    {
+                        "id_dzl": 4780
+                        
+                    },
+					{
+                        "id_dzl": 4755
+                        
+                    }
+                ]
+            }
+		
