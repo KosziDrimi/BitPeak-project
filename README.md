@@ -1,4 +1,4 @@
-# Bitpeak-project
+# BitPeak-project
 
 JSON files - data added to and get from database. 
 Technologies applied: Python, Flask and SQLAlchemy.
